@@ -31,7 +31,7 @@ int main() {
 
     // Verificar se a media esta abaixo do esperado
     if (media < 7) {
-        printf("ATENÇÃO! A media de atendimento esta abaixo do esperado!\n");
+        printf("ATENCAO! A media de atendimento esta abaixo do esperado!\n");
     } else {
         printf("Atendimento dentro do esperado. Parabens!\n");
     }
