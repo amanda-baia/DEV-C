@@ -1,0 +1,8 @@
+# Executaveis e arquivos gerados na compilacao
+*.exe
+*.o
+*.out
+output/
+
+# Configuracoes locais do editor
+.vscode/
