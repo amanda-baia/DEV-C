@@ -11,11 +11,11 @@
  */
 
 #include <stdio.h>
-#include "banco.h"      /* aspas: o arquivo e nosso, esta na mesma pasta */
+#include "banco.h"      /* aspas: o arquivo eh nosso, esta na mesma pasta  - chama as funcoes ora declaradas*/
 
 int main() {
 
-    struct cliente c[MAX];    /* armario com ate MAX fichas */
+    struct cliente c[MAX];    /* armario com ate MAX fichas - lembrar que estabelecemos o max no arq banco.h */
     int n = 0;                /* quantos clientes foram cadastrados */
     int opcao;
     int bancoAberto = 0;      /* interruptor: 0 = fechado, 1 = aberto */
@@ -77,7 +77,7 @@ int main() {
             printf("Opcao invalida!\n");
         }
 
-    } while (opcao != 0);
+    } while (opcao != 0); /* Tudo diferente do sair faz o while continuar a questionar*/
 
     return 0;
 }
