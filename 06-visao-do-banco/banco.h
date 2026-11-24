@@ -34,7 +34,7 @@ struct cliente {
 };
 
 /* ===================================================================
-   PROTOTIPOS (as funcoes completas estao no banco.c)
+   PROTOTIPOS (as funcoes completas estao no banco.c - aqui eh como um repositorio, ativado quando iniciado <#include banco.h>)
    =================================================================== */
 
 /* opcoes do menu */
