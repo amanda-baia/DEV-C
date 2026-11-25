@@ -122,6 +122,8 @@ Every activity from the professor's slides, one folder per class. The **Slide** 
 | Aula 07 | 27 | [`q10_vendas_cinco_dias.c`](listas-professora/aula07/q10_vendas_cinco_dias.c) | Q10: sales of 5 days (total, average, above average) |
 | Aula 07 | 28 | [`q11_notas_turma.c`](listas-professora/aula07/q11_notas_turma.c) | Q11: class grades with functions |
 | Aula 07 | 28 | [`q12_estoque_simplificado.c`](listas-professora/aula07/q12_estoque_simplificado.c) | Q12: simplified stock, product search by code |
+| Aula 07 | 23–24 | [`recursao_fibonacci.c`](listas-professora/aula07/recursao_fibonacci.c) | Recursive Fibonacci (slide function): terms and sum |
+| Aula 07 | 25 | [`recursao_fatorial.c`](listas-professora/aula07/recursao_fatorial.c) | "Fatorial?": recursive factorial |
 | Aula 08 | 22 | [`atividade1_sorteio_beneficente.c`](listas-professora/aula08/atividade1_sorteio_beneficente.c) | Activity 1: occurrences, products in alphabetical order, even list descending |
 | Aula 08 | 23 | [`atividade2_positivos_negativos.c`](listas-professora/aula08/atividade2_positivos_negativos.c) | Activity 2: positive-even and negative-odd arrays, ascending |
 | Aula 08 | 23–24 | [`atividade3_animais.c`](listas-professora/aula08/atividade3_animais.c) | Activity 3: repeated primes and animal matching |
@@ -151,7 +153,7 @@ For the bank project: `gcc main.c banco.c -o banco`.
 - Loops (`for`, `do-while`), accumulators and counters
 - Structs and arrays of structs
 - Functions, header files and multi-file programs
-- Recursion (Fibonacci, Towers of Hanoi) and bubble sort
+- Recursion (Fibonacci, factorial, Towers of Hanoi) and bubble sort
 - Matrices and strings (`strcmp`, `strcpy`)
 
 ## ✍️ Author

@@ -122,6 +122,8 @@ Todas as atividades dos slides da professora, uma pasta por aula. A coluna **Sli
 | Aula 07 | 27 | [`q10_vendas_cinco_dias.c`](listas-professora/aula07/q10_vendas_cinco_dias.c) | Q10: vendas de 5 dias (total, média, acima da média) |
 | Aula 07 | 28 | [`q11_notas_turma.c`](listas-professora/aula07/q11_notas_turma.c) | Q11: notas da turma com funções |
 | Aula 07 | 28 | [`q12_estoque_simplificado.c`](listas-professora/aula07/q12_estoque_simplificado.c) | Q12: estoque simplificado, busca de produto pelo código |
+| Aula 07 | 23–24 | [`recursao_fibonacci.c`](listas-professora/aula07/recursao_fibonacci.c) | Fibonacci recursivo (função do slide): termos e soma |
+| Aula 07 | 25 | [`recursao_fatorial.c`](listas-professora/aula07/recursao_fatorial.c) | "Fatorial?": fatorial com recursão |
 | Aula 08 | 22 | [`atividade1_sorteio_beneficente.c`](listas-professora/aula08/atividade1_sorteio_beneficente.c) | Atividade 1: ocorrências, produtos em ordem alfabética e pares em ordem decrescente |
 | Aula 08 | 23 | [`atividade2_positivos_negativos.c`](listas-professora/aula08/atividade2_positivos_negativos.c) | Atividade 2: vetores de positivos pares e negativos ímpares, em ordem crescente |
 | Aula 08 | 23–24 | [`atividade3_animais.c`](listas-professora/aula08/atividade3_animais.c) | Atividade 3: primos repetidos e correspondência com animais |
@@ -151,7 +153,7 @@ Para o projeto do banco: `gcc main.c banco.c -o banco`.
 - Laços (`for`, `while`, `do-while`), acumuladores e contadores
 - Structs e vetores de struct
 - Funções, arquivos de cabeçalho (`.h`) e programas em vários arquivos
-- Recursão (Fibonacci, Torres de Hanói) e bubble sort
+- Recursão (Fibonacci, fatorial, Torres de Hanói) e bubble sort
 - Matrizes e textos (`strcmp`, `strcpy`)
 
 ## ✍️ Autora
