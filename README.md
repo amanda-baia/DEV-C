@@ -71,6 +71,11 @@ A digital wallet simulation with customer registration, account rules, deposits 
 | [`notas_vetor.c`](05-vetores/notas_vetor.c) | Stores 5 grades in an array and averages them |
 | [`clientes_vetor.c`](05-vetores/clientes_vetor.c) | Registers clients in an array of structs |
 
+### Course lists (professor's activities)
+| File | What it does |
+|---|---|
+| [`aula08_atividade4_apostadores.c`](listas-professora/aula08_atividade4_apostadores.c) | Class 8, activity 4: five bettors, Fibonacci sums, prizes for largest prime, largest even and largest above-average result |
+
 ## ▶️ How to Compile and Run
 
 Using GCC, inside the exercise folder:
