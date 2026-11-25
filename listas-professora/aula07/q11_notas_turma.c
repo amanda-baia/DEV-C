@@ -1,5 +1,4 @@
 /*
- * Arquivo:     q11_notas_turma.c
  * Descricao:   Questao 11 (Aula 7, slide 28). Notas finais de 10 alunos
  *              num vetor, com as funcoes:
  *                calcularMediaTurma  -> devolve a media
