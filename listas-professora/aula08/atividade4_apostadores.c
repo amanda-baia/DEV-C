@@ -1,6 +1,6 @@
 /*
- * Arquivo:     aula08_atividade4_apostadores.c
- * Descricao:   Aula 8 - Atividade 4. Cinco apostadores informam nome e um
+ * Arquivo:     atividade4_apostadores.c
+ * Descricao:   Atividade 4 (Aula 8, slide 25). Cinco apostadores informam nome e um
  *              inteiro positivo. Para cada um, calcula a soma da sequencia
  *              de Fibonacci com essa quantidade de termos e premia:
  *                1o lugar - maior resultado PRIMO;
