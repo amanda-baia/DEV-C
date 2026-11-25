@@ -8,7 +8,6 @@
  *                exibirResultados    -> mostra tudo (void)
  *              As funcoes de calculo so devolvem (return), nao imprimem.
  *
- * Autora:      Amanda Baia
  * Disciplina:  Algoritmos e Pensamento Computacional - Profa. Joanacelle Caldas
  */
 
